@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Bienvenido Inivition Studios
+    title: Welcome Inivition Studios
     actions:
       - label: Contact Me
         url: /contact
